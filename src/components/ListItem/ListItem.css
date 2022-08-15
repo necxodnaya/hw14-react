@@ -1,0 +1,19 @@
+.list{
+    color: white;
+    width: 300px;
+    background-color: purple;
+    height: 50px;
+    margin: 20px auto;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+}
+.list p{
+    padding: 10px;
+    margin:auto 30px;
+}
+.delete{
+    margin: auto;
+    padding-left: 50px;
+    padding-bottom: 10px;
+}
